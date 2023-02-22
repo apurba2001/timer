@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  padding: 30px;
+}
+input{
+  width: 200px;
+  height: 30px;
+  font-size: 26px;
+}
+
+#current-time{
+  padding: 20px;
+  font-size: 30px;
+}
